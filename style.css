@@ -1,0 +1,35 @@
+body{
+  background-image:url('https://static.pexels.com/photos/33283/stack-of-books-vintage-books-book-books.jpg');
+  background-size: cover;
+}
+
+.search {
+  padding: 10px;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 10px;
+  background-color:#404040;
+  opacity:.7;
+}
+
+h1{
+  margin-right: auto;
+  margin-left: auto;
+  text:center;
+}
+
+p{
+  color:white;
+}
+
+a{
+  color:white;
+}
+
+button{
+  color:white;
+  background-color: #404040;
+}
+
+
